@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
 
-import "./Button.css";
 // import { css } from "styled-components";
 
 const Button = (props) => {
